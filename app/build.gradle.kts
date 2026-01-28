@@ -48,4 +48,6 @@ dependencies {
     androidTestImplementation(libs.androidx.espresso.core)
     //SplashScreen
     implementation("androidx.core:core-splashscreen:1.0.1")
+
+    implementation("com.github.GrenderG:Toasty:1.5.2")
 }
